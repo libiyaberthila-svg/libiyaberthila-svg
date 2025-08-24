@@ -66,7 +66,10 @@
 
 ## ⚡ Fun Animation  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=6C63FF&lines=Front-end+Developer;Python+Enthusiast;Full-Stack+Learner;Tech+Explorer)
+
+| ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJ3Mmh4bmZ4anRseTJlMDVmajc3eDlleXdrcmFwZnEya3hpbGVoNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LKvHJSPgCj4BjF1F5e/giphy.gif) |
+|:--:|
+
 
 ---
 
