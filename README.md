@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Libiya+Berthil)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=3000&pause=1000&color=FFFFFFcenter=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Libiya+Berthil)
 
 
 🚀 *Front-end Developer* | 💻 *Python Enthusiast*  
