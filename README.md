@@ -1,32 +1,39 @@
-# HI👋, I'm Libiya Berthil
-#####   🚀Front-end Developer| 💻 Python
-------------------
-### 🌈***About Me***
-* ⭐Passionate about   Full-Stack Development.
-* 🔥I am currently pursuing Bachelor of Technology in information Technology @NPRCET.
-* 🌐From,Dindigul,Tamil Nadu.
-------------
-PROGRAMMING SKILLS:
-* PYHTON🐍
-* HTML </>
-* CSS{}
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml6Yzk4YXRkaTYzMWY5ZGY4cDhkNWpybGMwOHJxaDNxNmNweXpoayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LKvHJSPgCj4BjF1F5e/200.webp)
------
-## STRENGTHS:
-+ Good Time Management
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Libiya+Berthil)
 
 
-<!--
-**libiyaberthila-svg/libiyaberthila-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Front-end Developer* | 💻 *Python Enthusiast*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌈 About Me  
+- ⭐ Passionate about **Full-Stack Development**  
+- 🔥 Currently pursuing **B.Tech in Information Technology** @ **NPRCET**  
+- 🌍 From **Dindigul, Tamil Nadu**  
+
+---
+
+## 💻 Programming Skills  
+- 🐍 Python  
+- 🌐 HTML  
+- 🎨 CSS  
+
+---
+
+## 💪 Strengths  
+- ⏰ Good Time Management  
+- ⚡ Quick Learner  
+- 🧩 Problem-Solving Mindset  
+
+---
+
+## ⚡ Fun Animation  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=6C63FF&lines=Front-end+Developer;Python+Enthusiast;Full-Stack+Learner;Tech+Explorer)
+
+---
+
+
+
+---
+
+![]()
