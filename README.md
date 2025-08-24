@@ -5,7 +5,7 @@
 
 ---
 
-## 🌈 About Me  
+## 🎈🎈About Me  
 - ⭐ Passionate about **Full-Stack Development**  
 - 🔥 Currently pursuing **B.Tech in Information Technology** @ **NPRCET**  
 - 🌍 From **Dindigul, Tamil Nadu**  
